@@ -19,5 +19,15 @@ const bigNumber = 345678909876543345678n;
 
 
 /* Non-Primitive (Reference Type)
-    Array, Objects, Functions
-*/
+    Array, Objects, Functions*/
+const heroes = ["shaktiman","nagraj","doga"];
+let myObj = {
+    name: "Harshit",
+    age: 22,
+}
+
+const myFunc = function() {
+    console.log("Hello Harshit!");
+}
+
+console.log(typeof anotherId);
